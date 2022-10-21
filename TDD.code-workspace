@@ -8,6 +8,9 @@
     },
     {
       "path": "03_reverseString"
+    },
+    {
+      "path": "04_removeFromArray"
     }
   ],
   "settings": {}
